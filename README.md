@@ -10,3 +10,4 @@
 - [海量数据](https://github.com/Shiny-Man/notes/blob/master/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE.md)
 - [哈希表](<https://github.com/Shiny-Man/notes/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8.md>)
 - [C & C++ 基础](<https://github.com/Shiny-Man/notes/blob/master/C_%26_C%2B%2B%E5%9F%BA%E7%A1%80.md>)
+- [MySQL 经典练习题](<https://github.com/Shiny-Man/notes/blob/master/MySQL%E7%BB%8F%E5%85%B8%E7%AC%94%E8%AF%95%E9%A2%98.md>)
