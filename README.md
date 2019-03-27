@@ -12,3 +12,5 @@
 - [C & C++ 基础](<https://github.com/Shiny-Man/notes/blob/master/C_%26_C%2B%2B%E5%9F%BA%E7%A1%80.md>)
 - [MySQL 经典练习题](<https://github.com/Shiny-Man/notes/blob/master/MySQL%E7%BB%8F%E5%85%B8%E7%AC%94%E8%AF%95%E9%A2%98.md>)
 - [结结巴巴☞每日一题](<https://github.com/Shiny-Man/code/tree/master/every_day_codes>)
+- [类和数据抽象](<https://github.com/Shiny-Man/notes/blob/master/%E7%B1%BB%E5%92%8C%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1.md>)
+
