@@ -14,3 +14,4 @@
 - [结结巴巴☞每日一题](<https://github.com/Shiny-Man/code/tree/master/every_day_codes>)
 - [类和数据抽象](<https://github.com/Shiny-Man/notes/blob/master/%E7%B1%BB%E5%92%8C%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1.md>)
 - [内存管理](<https://github.com/Shiny-Man/notes/blob/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md>)
+- [Redis 学习历程之 string](<https://github.com/Shiny-Man/notes/blob/master/Redis_%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B%E4%B9%8B_string.md>)
