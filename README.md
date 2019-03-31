@@ -12,6 +12,7 @@
 - [哈希表](<https://github.com/Shiny-Man/notes/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8.md>)
 - [C & C++ 基础](<https://github.com/Shiny-Man/notes/blob/master/C_%26_C%2B%2B%E5%9F%BA%E7%A1%80.md>)
 - [类和数据抽象](<https://github.com/Shiny-Man/notes/blob/master/%E7%B1%BB%E5%92%8C%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1.md>)
+- [容器 & 算法](<https://github.com/Shiny-Man/notes/blob/master/%E5%AE%B9%E5%99%A8_%26_%E7%AE%97%E6%B3%95.md>)
 - [内存管理](<https://github.com/Shiny-Man/notes/blob/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md>)
 - [线程概念](<https://blog.csdn.net/qq_41880190/article/details/84674962>)
 - [线程控制](<https://blog.csdn.net/qq_41880190/article/details/84716336>)
